@@ -1,0 +1,3 @@
+/mnt/c/Users/Harlop/CLionProjects/Teoria/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Harlop/CLionProjects/Teoria/build/CMakeFiles/run.dir
+/mnt/c/Users/Harlop/CLionProjects/Teoria/build/CMakeFiles/edit_cache.dir
